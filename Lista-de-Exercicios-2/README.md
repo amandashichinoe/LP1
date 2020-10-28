@@ -14,8 +14,8 @@
 
 7. Escreva um algoritmo em linguagem C que: a) leia um vetor A de 12 números reais; b) construa e imprima um vetor B formado da seguinte maneira:
 
-	os elementos de índice par são os correspondentes de A divididos por 2;
-	os elementos de índice ímpar são os correspondentes de A multiplicados por 3.
+	- os elementos de índice par são os correspondentes de A divididos por 2;
+	- os elementos de índice ímpar são os correspondentes de A multiplicados por 3.
 
 8. Leia um vetor A de 6 elementos contendo o gabarito da Mega-Sena. O sorteio consiste na extração de 6 números diferentes, no universo de 01 a 60.
 
