@@ -20,7 +20,7 @@ int main(){
 		printf("\n"); 
 	}
 	
-		printf("\nMatriz 2\n\n");
+		printf("\nMatriz Invertida\n\n");
 	
 	for(i=0; i<TAM; i++){
 		for(j=0; j<TAM; j++){
