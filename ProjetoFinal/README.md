@@ -11,11 +11,13 @@ Criar uma agenda de contatados com o seguinte menu:
 
 
 A quantidade de contatos é indeterminada.
+
 Usar alocação dinâmica e realocação.
+
 Um contato deve ter as seguintes informações:
 
-Codigo
-Nome
-Telefone
-Endereço
-Email
+- Codigo
+- Nome
+- Telefone
+- Endereço
+- Email
